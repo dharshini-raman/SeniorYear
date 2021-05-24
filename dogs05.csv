@@ -1,0 +1,19 @@
+﻿,HUNTING,WEIGHT,EXERCISE,LIFE EXPECTANCY,HEIGHT,GROUP
+American Fox Hound,0,70,90,13,25,Hound
+Beagle,0,24,90,15,23,Hound
+Bloodhound,0,110,90,12,27,Hound
+French Bulldog,0,20,45,12,12,Non-Sport
+American Eskimo Dog,0,35,45,15,19,Non-Sport
+Poodle,0,70,45,18,18,Non-Sport
+Dalmatian,0,70,45,13,24,Non-Sport
+Cocker Spaniel,1,35,120,16,18,Sporting
+Boykin,1,35,120,15,18,Sporting
+American Water Spaniel,1,45,120,15,18,Sporting
+Maltese,0,8,90,15,10,Terrier
+Australian Terrier,0,16,90,15,11,Terrier
+Border Terrier,0,16,90,15,14,Terrier
+Irish Terrier,0,27,90,15,14,Terrier
+Siberian Husky,1,70,120,15,24,Working
+Great Dane,1,90,120,10,34,Working
+Saint Bernard,1,180,120,10,31,Working
+Mastiff,1,230,120,12,36,Working

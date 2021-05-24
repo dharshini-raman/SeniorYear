@@ -1,0 +1,22 @@
+Unnamed: 0,HUNTING,WEIGHT,EXERCISE,LIFE EXPECTANCY,HEIGHT,GROUP
+0,0,70,90,13,25,Hound
+1,0,24,90,15,15,Hound
+2,0,110,90,12,27,Hound
+3,0,20,45,12,12,Non-Sport
+4,0,35,45,15,19,Non-Sport
+5,0,70,45,18,18,Non-Sport
+6,0,70,45,13,24,Non-Sport
+7,1,35,120,16,18,Sporting
+8,1,35,120,15,18,Sporting
+9,1,45,120,15,18,Sporting
+10,0,8,90,15,10,Terrier
+11,0,16,90,15,11,Terrier
+12,0,16,90,15,14,Terrier
+13,0,27,90,15,14,Terrier
+14,1,70,120,15,24,Working
+15,1,90,120,10,34,Working
+16,1,180,120,10,31,Working
+17,1,230,120,12,36,Working
+18,0,100,90,14,28,Hound
+19,0,120,90,8,32,Hound
+20,1,175,120,10,32,Working
